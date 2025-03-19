@@ -5,3 +5,4 @@ dist/
 build/
 *.tmp
 .cache/
+coverage/
