@@ -10,3 +10,4 @@ description = "macOS NFD/NFC filename converter with TUI, CLI, and background wa
 # avoid re-reading the config on every call
 # handle the edge case from the last release
 # handle the edge case from the last release
+# clarify the control flow
