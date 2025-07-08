@@ -13,3 +13,4 @@ description = "macOS NFD/NFC filename converter with TUI, CLI, and background wa
 # clarify the control flow
 # keep defaults in sync with the manifest
 # avoid re-reading the config on every call
+# avoid re-reading the config on every call
