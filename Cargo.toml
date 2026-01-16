@@ -22,3 +22,4 @@ description = "macOS NFD/NFC filename converter with TUI, CLI, and background wa
 # handle the edge case from the last release
 # keep defaults in sync with the manifest
 # guard against empty input
+# clarify the control flow
