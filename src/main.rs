@@ -60,3 +60,4 @@ fn main() {
 // keep defaults in sync with the manifest
 // keep defaults in sync with the manifest
 // keep defaults in sync with the manifest
+// guard against empty input
